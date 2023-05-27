@@ -2,3 +2,5 @@ audio/
 myenv/
 summary.txt
 transcript.txt
+.gitignore
+.DS_Store
