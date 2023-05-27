@@ -38,6 +38,8 @@ python script.py your-audio-file.mp3
 
 Remember to replace "your-audio-file.mp3" with the name of your actual audio file.
 
+The prompt can be easily modified to alter the output to a format of your choice. 
+
 ## Output
 
 The script writes the transcript of the audio file to a file called "transcript.txt". It then writes a summarized version of the transcript, in slide format, to a file called "summary.txt". It also prints the estimated cost of the summary.
